@@ -1,5 +1,5 @@
 package edu.spring.mall.practice;
 
 public class hi34 {
-	private int hi4;
+	private int hi5;
 }
